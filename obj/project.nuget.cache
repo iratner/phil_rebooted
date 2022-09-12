@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVDTeWrVIDzENXeMCbgv3+p70W4SlHtYv2QQ+K2oP8hFGFP6BNrtyvWKB2WJmroZ7hXKqPnW7P0zigWYpWWEKg==",
+  "success": true,
+  "projectFilePath": "/Users/ilya/unity/mc_projects/phil_rebooted/Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ilya/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

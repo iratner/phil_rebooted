@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ilya/unity/mc_projects/phil_rebooted/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/ilya/unity/mc_projects/phil_rebooted/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ilya/unity/mc_projects/phil_rebooted/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/ilya/unity/mc_projects/phil_rebooted/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/ilya/.nuget/packages/",
+        "outputPath": "/Users/ilya/unity/mc_projects/phil_rebooted/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ilya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
